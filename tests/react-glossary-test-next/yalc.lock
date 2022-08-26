@@ -1,0 +1,9 @@
+{
+  "version": "v1",
+  "packages": {
+    "react-glossary": {
+      "signature": "da545d59eb7cbc76127317355d6ac7da",
+      "file": true
+    }
+  }
+}
