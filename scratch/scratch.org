@@ -1,0 +1,3 @@
+#+title: Scratch
+
+$$Action = \sum\limits^\infty intention$$
