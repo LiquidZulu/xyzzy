@@ -1,6 +1,6 @@
 use phf::phf_map;
 
-pub static LETTER_MAP: phf::Map<char, i32> = phf_map! {
+pub const LETTER_MAP: phf::Map<char, i32> = phf_map! {
     'a' => 1,
     'b' => 2,
     'c' => 3,
